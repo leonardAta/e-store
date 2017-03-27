@@ -4,3 +4,8 @@ div {
 	height: 50px;
 	background-color: gray;
 }
+div a{
+	color: #566573;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding: 10px 20px;
+}
